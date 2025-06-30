@@ -15,14 +15,6 @@
 *.ytimg.com
 *.googlevideo.com
 
-*.facebook.com
-*.fbcdn.net
-*.fbcdn.com
-*.fbsbx.com
-*.whatsapp.net
-*.instagram.com
-*.cdninstagram.com
-
 *.line.me
 *.line-apps.com
 *.line-scdn.net
@@ -31,16 +23,6 @@
 *.nflxvideo.net
 *.nflximg.net
 
-# --- Google / Android ---
-*.google.com
-*.gvt2.com
-*.gstatic.com
-*.googleapis.com
-*.android.com
-*.play.googleapis.com
-*.firebaseio.com
-*.ggpht.com
-*.googleusercontent.com
 
 # --- Apple / iOS ---
 *.apple.com
@@ -49,14 +31,6 @@
 *.itunes.apple.com
 *.push.apple.com
 
-# --- Microsoft / Windows / Office365 ---
-*.microsoft.com
-*.msn.com
-*.live.com
-*.office.com
-*.windows.com
-*.outlook.com
-*.skype.com
 
 # --- Thai Banking / Finance (สำคัญมาก!) ---
 *.scbeasy.com
@@ -115,14 +89,6 @@
 *.deepmind.com
 *.you.com
 
-# --- Streaming: Disney+, TrueID, etc. ---
-*.disneyplus.com
-*.bamgrid.com
-*.dssott.com
-*.disney.demdex.net
-*.trueid.net
-*.trueidtv.com
-*.cdn.trueid.net
 
 # --- E-Commerce: Shopee, Lazada ---
 *.shopee.co.th
@@ -132,19 +98,6 @@
 *.lzd-assets.com
 *.alicdn.com
 
-# --- IPTV / Digital TV Thailand ---
-*.iptv.trueid.net
-*.aisplay.net
-*.mono29.com
-*.workpointtv.com
-*.thaipbs.or.th
-*.ch3plus.com
-*.one31.net
-*.pptvhd36.com
-*.tv5.co.th
-*.mcot.net
-*.thairath.co.th
-*.nationtv.tv
 
 # --- Thai Government / Tax / MOE / Education ---
 *.rd.go.th
@@ -176,5 +129,3 @@
 *.paypal.com
 *.stripe.com
 *.1e100.net
-*.doubleclick.net
-*.googletagmanager.com
