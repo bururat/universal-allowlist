@@ -1,0 +1,72 @@
+!##############################################
+!# AdGuard Allowlist (ไทย) - Final
+!# ใช้งานจริง ครอบคลุมทุกหมวดหมู่สำคัญ
+!##############################################
+
+! ========================
+! [1] ธนาคารและการเงิน
+! ========================
+@@||scb.co.th^
+@@||kbank.co.th^
+@@||bbl.co.th^
+@@||krungthai.com^
+@@||ktb.co.th^
+@@||ttb.co.th^
+@@||uob.co.th^
+@@||cimb.co.th^
+@@||bay.co.th^
+@@||ghbank.co.th^
+@@||tmbthanachart.com^
+@@||online.*.co.th^
+@@||scbeasy.com^
+@@||kplus.krungthai.com^
+
+! ========================
+! [2] E-Commerce
+! ========================
+@@||shopee.co.th^
+@@||lazada.co.th^
+@@||jd.co.th^
+@@||powerbuy.co.th^
+@@||central.co.th^
+@@||homepro.co.th^
+@@||jib.co.th^
+@@||advice.co.th^
+@@||bananait.com^
+
+! ========================
+! [3] Social & TikTok
+! ========================
+@@||tiktok.com^
+@@||tiktokcdn.com^
+@@||tiktokv.com^
+@@||bytedance.com^
+@@||facebook.com^
+@@||fbcdn.net^
+@@||instagram.com^
+@@||cdninstagram.com^
+
+! ========================
+! [4] ราชการ/รัฐวิสาหกิจ
+! ========================
+@@||thaidpost.com^
+@@||egat.co.th^
+@@||mea.or.th^
+@@||rd.go.th^
+@@||ssso.go.th^
+@@||dopa.go.th^
+@@||mot.go.th^
+
+! ========================
+! [5] บริการจำเป็นอื่นๆ
+! ========================
+@@||googleapis.com^
+@@||gstatic.com^
+@@||cloudflare.com^
+@@||akamaihd.net^
+@@||wikipedia.org^
+@@||stackoverflow.com^
+@@||lin.ee^
+@@||ais.th^
+@@||true.th^
+@@||dtac.co.th^
