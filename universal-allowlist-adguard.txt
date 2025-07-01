@@ -81,5 +81,24 @@ cmu.ac.th
 # --- CDN / Auth / Payment ---
 assets.cloudflare.com
 video.cloudflarestream.com
+gstatic.com
+googleusercontent.com
 paypal.com
 stripe.com
+
+# --- YouTube Premium Specific Domains ---
+youtube.com
+ytimg.com
+googlevideo.com
+clients1.google.com
+clients3.google.com
+redirector.googlevideo.com
+manifest.googlevideo.com
+r*.sn-googlevideo.com
+video-stats.l.google.com
+s.youtube.com
+i.ytimg.com
+yt3.ggpht.com
+
+
+
