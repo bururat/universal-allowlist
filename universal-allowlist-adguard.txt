@@ -1,72 +1,85 @@
-!##############################################
-!# AdGuard Allowlist (ไทย) - Final
-!# ใช้งานจริง ครอบคลุมทุกหมวดหมู่สำคัญ
-!##############################################
+# --- Social / Video (Optimized) ---
+tiktok.com
+log.byteoversea.com
+p16-tiktokcdn-com.akamaized.net
+v16m.tiktokcdn.com
+youtube.com
+ytimg.com
+googlevideo.com
+facebook.com
+fbcdn.net
+fbsbx.com
+instagram.com
+cdninstagram.com
+line.me
+line-scdn.net
+netflix.com
+nflxvideo.net
 
-! ========================
-! [1] ธนาคารและการเงิน
-! ========================
-@@||scb.co.th^
-@@||kbank.co.th^
-@@||bbl.co.th^
-@@||krungthai.com^
-@@||ktb.co.th^
-@@||ttb.co.th^
-@@||uob.co.th^
-@@||cimb.co.th^
-@@||bay.co.th^
-@@||ghbank.co.th^
-@@||tmbthanachart.com^
-@@||online.*.co.th^
-@@||scbeasy.com^
-@@||kplus.krungthai.com^
+# --- Google / Android ---
+google.com
+gstatic.com
+googleapis.com
+android.com
+play.googleapis.com
+firebaseio.com
 
-! ========================
-! [2] E-Commerce
-! ========================
-#@@||shopee.co.th^
-#@@||lazada.co.th^
-#@@||jd.co.th^
-#@@||powerbuy.co.th^
-#@@||central.co.th^
-#@@||homepro.co.th^
-#@@||jib.co.th^
-#@@||advice.co.th^
-#@@||bananait.com^
+# --- Apple / iOS ---
+apple.com
+icloud.com
+mzstatic.com
+itunes.apple.com
 
-! ========================
-! [3] Social & TikTok
-! ========================
-@@||tiktok.com^
-@@||tiktokcdn.com^
-@@||tiktokv.com^
-@@||bytedance.com^
-@@||facebook.com^
-@@||fbcdn.net^
-@@||instagram.com^
-@@||cdninstagram.com^
+# --- Microsoft / Windows ---
+microsoft.com
+office.com
+outlook.com
 
-! ========================
-! [4] ราชการ/รัฐวิสาหกิจ
-! ========================
-@@||thaidpost.com^
-@@||egat.co.th^
-@@||mea.or.th^
-@@||rd.go.th^
-@@||ssso.go.th^
-@@||dopa.go.th^
-@@||mot.go.th^
+# --- Thai Banking / Finance (Important) ---
+scbeasy.com
+scb.co.th
+kplus.com
+kasikornbank.com
+ktbnetbank.com
+krungthai.com
+ttbbank.com
+bangkokbank.com
+krungsri.com
+truemoney.com
+promptpay.io
 
-! ========================
-! [5] บริการจำเป็นอื่นๆ
-! ========================
-@@||googleapis.com^
-@@||gstatic.com^
-@@||cloudflare.com^
-@@||akamaihd.net^
-@@||wikipedia.org^
-@@||stackoverflow.com^
-@@||lin.ee^
-@@||ais.th^
-@@||true.th^
-@@||dtac.co.th^
+# --- AI Services ---
+chat.openai.com
+api.openai.com
+platform.openai.com
+claude.ai
+gemini.google.com
+huggingface.co
+replicate.com
+perplexity.ai
+
+# --- Streaming: Disney+, TrueID ---
+disneyplus.com
+bamgrid.com
+trueid.net
+cdn.trueid.net
+
+# --- E-Commerce: Shopee, Lazada ---
+shopee.co.th
+shopeemobile.com
+lazada.co.th
+lzd-assets.com
+
+# --- Thai Government / Education ---
+rd.go.th
+etax.rd.go.th
+mhesi.go.th
+moe.go.th
+chula.ac.th
+cmu.ac.th
+
+# --- CDN / Auth / Payment ---
+assets.cloudflare.com
+video.cloudflarestream.com
+paypal.com
+stripe.com
