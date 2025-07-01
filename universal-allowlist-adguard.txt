@@ -24,15 +24,15 @@
 ! ========================
 ! [2] E-Commerce
 ! ========================
-@@||shopee.co.th^
-@@||lazada.co.th^
-@@||jd.co.th^
-@@||powerbuy.co.th^
-@@||central.co.th^
-@@||homepro.co.th^
-@@||jib.co.th^
-@@||advice.co.th^
-@@||bananait.com^
+#@@||shopee.co.th^
+#@@||lazada.co.th^
+#@@||jd.co.th^
+#@@||powerbuy.co.th^
+#@@||central.co.th^
+#@@||homepro.co.th^
+#@@||jib.co.th^
+#@@||advice.co.th^
+#@@||bananait.com^
 
 ! ========================
 ! [3] Social & TikTok
